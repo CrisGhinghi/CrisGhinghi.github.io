@@ -1,2 +1,2 @@
-# Cristina-Ghinghiloschi---HTML-e-CSS
-My portfolio
+# Progetto HTML e CSS di Cristina Ghinghiloschi
+<h3 align="center">Il mio portfolio</h3>
