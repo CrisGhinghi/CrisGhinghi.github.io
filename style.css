@@ -481,9 +481,14 @@ header.sticky{
         top: 100%;
         height: 100vh;
     }
+    .contact-text{
+        display: inline-flex;
+        justify-content: center;
+    }
     .contact-icons{
         display: inline-flex;
         justify-content: center;
+        grid-template-columns: 1fr;
     }
 }
 
