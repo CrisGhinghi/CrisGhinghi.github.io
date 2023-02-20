@@ -485,6 +485,10 @@ header.sticky{
         top: 100%;
         height: 100vh;
     }
+    .home-text h1{
+        font-size: 3rem;
+        font-weight: 600;
+    }
     .contact-icons{
         display: inline-flex;
         justify-content: center;
