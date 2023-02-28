@@ -9,7 +9,7 @@ La sezione "Home" è formata da un'immagine di sfondo e un breve testo di presen
 Include inoltre un header composto dal logo e un elenco di link di navigazione per le diverse sezioni del sito.<br>
 <br>
 <p align="center">
-  <img src="/screenshot/home.png" alt="Size Limit CLI" width="738">
+  <img src="/assets/img/screenshot/home.png" alt="Size Limit CLI" width="738">
 </p>
 <br>
 
