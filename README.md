@@ -41,9 +41,5 @@ La sezione "Contattami" offre all'utente la possibilità di entrare in contatto 
 • facebook;<br>
 • GitHub.
 <p align="center">
-<<<<<<< HEAD
   <img src="/assets/img/screenshot/contacts.png" alt="Size Limit CLI" width="738">
-=======
-  <img src="assets/img/screenshot/contacts.png" alt="Size Limit CLI" width="738">
->>>>>>> c994eb3dfb69e1b11ba27782298c4e75f56a08d6
 </p>
