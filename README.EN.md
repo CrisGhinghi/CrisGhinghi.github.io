@@ -9,7 +9,7 @@ The "Home" section features a background image and a short introduction text, al
 It also includes a header with the logo and a navigation menu with links to different sections of the website.<br>
 <br>
 <p align="center">
-  <img src="/screenshot/home.png" alt="Size Limit CLI" width="738">
+  <img src="/assets/img/screenshot/home.png" alt="Size Limit CLI" width="738">
 </p>
 <br>
 
@@ -17,19 +17,19 @@ It also includes a header with the logo and a navigation menu with links to diff
 The "About me" section includes a more detailed description of myself, my past experiences, and my aspiration to become a programmer.<br>
 <br>
 <p align="center">
-  <img src="/screenshot/about.png" alt="Size Limit CLI" width="738">
+  <img src="/assets/img/screenshot/about.png" alt="Size Limit CLI" width="738">
 </p>
 
 ## Services
 The "Services" section showcases my skills.
 <p align="center">
-  <img src="/screenshot/services.png" alt="Size Limit CLI" width="738">
+  <img src="/assets/img/screenshot/services.png" alt="Size Limit CLI" width="738">
 </p>
 
 ## Projects
 The "Projects" section is the showcase for my best projects.
 <p align="center">
-  <img src="/screenshot/projects.png" alt="Size Limit CLI" width="738">
+  <img src="/assets/img/screenshot/projects.png" alt="Size Limit CLI" width="738">
 </p>
 
 ## Contacts
@@ -41,5 +41,5 @@ The "Contact me" section offers users the possibility to get in touch with me th
 • facebook;<br>
 • GitHub.
 <p align="center">
-  <img src="/screenshot/contacts.png" alt="Size Limit CLI" width="738">
+  <img src="/assets/img/screenshot/contacts.png" alt="Size Limit CLI" width="738">
 </p>
