@@ -120,21 +120,16 @@ section{
     line-height: 1.1;
     margin: 0 0 8px;
 }
-.h4{
-    color: white;
-    font-size: 2rem;
-    font-weight: 500;
-}
-.h3{
-    color: white;
-    margin: 0 0 35px;
+.home-text h2{
     font-size: 3rem;
     font-weight: 700;
+    color: white;
     line-height: 1.1;
+    margin: 0 0 8px;
 }
 .home-text p{
     color: white;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     line-height: 1.8;
     margin-bottom: 40px;
 }
@@ -143,16 +138,15 @@ section{
     align-items: center;
     justify-content: center;
 }
-.btn,
-.btn2{
+.btn{
     display: inline-block;
-    padding: 12px 28px;
+    padding: 15px 28px;
     background: #F26430;
     border-radius: 5px;
     color: white;
     font-size: 1rem;
-    letter-spacing: 1px;
-    font-weight: 600;
+    letter-spacing: 5px;
+    font-weight: 700;
     transition: all .45s ease;
 }
 .btn:hover{
@@ -185,11 +179,10 @@ header.sticky{
     line-height: 1;
     color: #1D4259;
 }
-.about-text h4{
-    font-size: 24px;
-    font-weight: 600;
+.about-text h3{
+    font-size: 25px;
     color: #F26430;
-    line-height: 1.7;
+    line-height: 1;
     margin: 15px 0 30px;
 }
 .about-text p{
@@ -201,8 +194,7 @@ header.sticky{
 
 
 /* ! Services section */
-.main-text,
-.main-text2{
+.main-text{
     text-align: center;
 }
 .main-text p{
@@ -210,17 +202,7 @@ header.sticky{
     font-size: 20px;
     margin-bottom: 15px;
 }
-.main-text2 p{
-    color: #1D4259;
-    font-size: 20px;
-    margin-bottom: 15px;
-}
 .main-text h2{
-    font-size: 50px;
-    color: #1D4259;
-    line-height: 1;
-}
-.main-text2 h2{
     font-size: 50px;
     color: #1D4259;
     line-height: 1;
