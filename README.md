@@ -36,11 +36,9 @@ La sezione "progetti" è la vetrina nella quale verranno mostrati i miei progett
 
 ## Contatti
 La sezione "Contattami" offre all'utente la possibilità di entrare in contatto con me tramite diversi mezzi quali:<br>
-• whatsapp;<br>
 • e-mail;<br>
 • linkedin;<br>
 • instagram;<br>
-• facebook;<br>
 • GitHub.
 <p align="center">
   <img src="/assets/img/screenshot/contacts.png" alt="Size Limit CLI" width="738">
