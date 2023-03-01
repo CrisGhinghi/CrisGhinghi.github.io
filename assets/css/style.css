@@ -355,6 +355,7 @@ header.sticky{
 .contact-icons i:hover{
     background: white;
     color: #F26430;
+    transform: scale(0.9);
 }
 
 
@@ -379,6 +380,7 @@ header.sticky{
 .top i:hover{
     background: white;
     color: #F26430;
+    transform: scale(0.9);
 }
 
 
