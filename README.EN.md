@@ -36,11 +36,9 @@ The "Projects" section is the showcase for my best projects.
 
 ## Contacts
 The "Contact me" section offers users the possibility to get in touch with me through various means, such as:<br>
-• whatsapp;<br>
 • e-mail;<br>
 • linkedin;<br>
 • instagram;<br>
-• facebook;<br>
 • GitHub.
 <p align="center">
   <img src="/assets/img/screenshot/contacts.png" alt="Size Limit CLI" width="738">
