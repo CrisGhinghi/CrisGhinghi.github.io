@@ -492,6 +492,7 @@ header.sticky{
         display: inline-flex;
         justify-content: center;
         grid-template-columns: 1fr;
+        margin-left: 20px;
     }
     
 }
