@@ -2,7 +2,7 @@
 <h3 align="center">Ciao 👋, sono Cris!<br>
 Sono una studentessa di Start2Impact University e questo è il mio portfolio.</h3>
 
-<h3 align="center">https://CrisGhinghi.github.io</h3>
+<h3 align="center">https://glittery-semolina-a13401.netlify.app</h3>
 
 *Read this in other languages: [English](README.EN.md).*
 
