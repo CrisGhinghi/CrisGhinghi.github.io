@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻‍💻 Cristina Ghinghiloschi's HTML and CSS Project</h1>
+<h1 align="center">👩🏻‍💻 HTML and CSS Project</h1>
 <h3 align="center">Hi there! 👋<br>
 My name is Cris, and I'm a student at Start2Impact University. This is my portfolio.</h3>
 
